@@ -21,7 +21,6 @@ public class MyGdxGame extends Game {
 
 	public static final int AWESOME_VELOCITY_MULTIPLIER_IN_PX = 5;
 
-
 	public SpriteBatch batch;
 
 	@Override
